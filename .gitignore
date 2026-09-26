@@ -1,0 +1,21 @@
+﻿# React
+frontend/node_modules/
+frontend/dist/
+
+# Spring Boot / Java
+backend/target/
+backend/tools/
+
+# Local H2 database
+backend/data/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
